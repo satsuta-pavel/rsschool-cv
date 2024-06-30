@@ -6,6 +6,7 @@
 
 **e-mail** s.p.vasilich@gmail.com
 
+
 *****
 ### Education
 
@@ -21,6 +22,7 @@ Belarusian State University          | Law
 *****
 ### Courses
 RS Schools Course «JavaScript/Front-end. Pre-School» \(in progress)
+
 
 *****
 ### Languages
